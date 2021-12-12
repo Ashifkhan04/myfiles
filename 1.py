@@ -6,8 +6,8 @@ def myfunction(num1, num2):
         num1 + num2
         return num1 + num2
 
-print("first", myfunction(20, 30))
-print("second result", myfunction(40, 30))
+print("first_second", myfunction(20, 30))
+print("second_list", myfunction(40, 30))
 
 
 
