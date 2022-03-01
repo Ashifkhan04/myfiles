@@ -6,7 +6,7 @@ def myfunction(num1, num2):
         num1 + num2
         return num1 + num2
 
-print("first_list", myfunction(20, 30))
+print("first_list", myfunction(2, 30))
 print("second_list", myfunction(40, 30))
 
 
